@@ -28,21 +28,21 @@ function App() {
     {
       title: 'Project 1',
       description: 'React JS Based Text Engine',
-      image: '../public/project1.png',
+      image: 'https://drive.google.com/file/d/1RrkI-2MiO2JM9zHpt23dfSgJ4FnuhCzZ/view?usp=drivesdk',
       repo: 'https://github.com/info-nikhil/Text-Engine',
       live: 'https://text-engine-ashy.vercel.app/'
     },
     {
       title: 'Project 2',
       description: 'Railway Announcement System',
-      image: '../public/project2.png',
+      image: 'https://drive.google.com/file/d/1o_Nxwl8OSOVhKMLLqE9Sdk1u2L4PCXdS/view?usp=drivesdk',
       repo: 'https://github.com/info-nikhil/Railway-Announcement-Translator',
       live: 'https://project2.com'
     },
     {
       title: 'Project 3',
       description: 'Expense Tracker Website',
-      image: '../public/project3.png',
+      image: 'https://drive.google.com/uc?export=view&id=16CPc-3HZt2UHXS_L-hjZzrSHEXpCF6J0',
       repo: 'https://github.com/info-nikhil/NodeJs-Money-Expense-Calculator',
       live: 'https://project3.com'
     }
@@ -101,7 +101,7 @@ function App() {
                   <Mail className="mr-2" /> Hire Me
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1bVJakrB_JZiVT7UAj88_voAfaTADbPRb/view?usp=sharing"
+                  href="https://drive.google.com/uc?export=download&id=1bVJakrB_JZiVT7UAj88_voAfaTADbPRb"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="glossy-btn bg-gradient-to-r from-green-500 to-green-700 text-white px-6 py-3 rounded-lg flex items-center"
@@ -117,7 +117,7 @@ function App() {
             >
               <div className="block">
                 <img
-                  src="../public/3.jpg"
+                  src='https://drive.google.com/file/d/1K5HuKhOMEJsYB2ALd8Fs_YOpOQ2x0cG7/view?usp=drivesdk'
                   alt="Profile"
                   className="rounded-full w-64 h-64 object-cover mx-auto shadow-lg"
                 />
